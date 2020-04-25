@@ -275,4 +275,4 @@
 // handled in any way they like.
 //
 
-package inet;
+package inet.src;

@@ -17,7 +17,7 @@
 //
 
 
-package inet.applications.udpapp;
+package inet.src.applications.udpapp;
 
 //
 // Consumes and prints packets received from the UDP module.

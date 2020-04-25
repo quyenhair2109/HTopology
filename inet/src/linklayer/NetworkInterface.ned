@@ -16,7 +16,7 @@
 //
 
 
-package inet.linklayer;
+package inet.src.linklayer;
 
 //
 // Prototype module for link layer protocols.

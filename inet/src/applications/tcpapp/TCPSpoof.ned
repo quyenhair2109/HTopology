@@ -16,7 +16,7 @@
 //
 
 
-package inet.applications.tcpapp;
+package inet.src.applications.tcpapp;
 
 //
 // Sends fabricated TCP packets. This is a base implementation,

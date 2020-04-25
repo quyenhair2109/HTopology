@@ -16,7 +16,7 @@
 //
 
 
-package inet.applications.udpapp;
+package inet.src.applications.udpapp;
 
 //
 // Video streaming client.

@@ -1,4 +1,4 @@
-package inet.applications.rtpapp;
+package inet.src.applications.rtpapp;
 
 simple RTPApplication
 {

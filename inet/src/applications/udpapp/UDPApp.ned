@@ -16,7 +16,7 @@
 //
 
 
-package inet.applications.udpapp;
+package inet.src.applications.udpapp;
 
 //
 // Template for UDP applications. It shows what gates a UDP app

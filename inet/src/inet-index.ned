@@ -157,4 +157,4 @@
 // I'd like to acknowledge their help here as well.
 //
 
-package inet;
+package inet.src;

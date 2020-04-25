@@ -16,7 +16,7 @@
 //
 
 
-package inet.applications.tcpapp;
+package inet.src.applications.tcpapp;
 
 //
 // Client for a generic request-response style protocol over TCP.

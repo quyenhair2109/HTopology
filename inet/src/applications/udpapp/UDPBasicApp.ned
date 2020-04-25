@@ -17,7 +17,7 @@
 //
 
 
-package inet.applications.udpapp;
+package inet.src.applications.udpapp;
 
 //
 // Sends \UDP packets to the given \IP address at the given interval.

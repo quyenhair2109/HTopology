@@ -16,7 +16,7 @@
 //
 
 
-package inet.applications.tcpapp;
+package inet.src.applications.tcpapp;
 
 //
 // Template for TCP applications. It shows what gates a TCP app

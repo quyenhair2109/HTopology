@@ -17,7 +17,7 @@
 
 
 
-package inet.base;
+package inet.src.base;
 
 //
 // Silently discards all input messages.

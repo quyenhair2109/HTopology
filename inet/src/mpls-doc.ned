@@ -321,4 +321,4 @@
 // </pre>
 //
 
-package inet;
+package inet.src;

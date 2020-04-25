@@ -17,7 +17,7 @@
 //
 
 
-package inet.applications.generic;
+package inet.src.applications.generic;
 
 //
 // Consumes and prints packets received from the IP module.

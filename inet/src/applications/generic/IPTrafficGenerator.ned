@@ -17,7 +17,7 @@
 //
 
 
-package inet.applications.generic;
+package inet.src.applications.generic;
 
 //
 // Prototype for modules that generate traffic directly over IP.

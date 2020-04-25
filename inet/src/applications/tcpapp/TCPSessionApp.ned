@@ -16,7 +16,7 @@
 //
 
 
-package inet.applications.tcpapp;
+package inet.src.applications.tcpapp;
 
 //
 // Single-connection TCP application: it opens a connection, sends

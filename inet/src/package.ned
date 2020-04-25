@@ -1,1 +1,1 @@
-package inet;
+package inet.src;

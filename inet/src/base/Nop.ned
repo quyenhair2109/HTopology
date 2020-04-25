@@ -17,7 +17,7 @@
 
 
 
-package inet.base;
+package inet.src.base;
 
 //
 // Just lets messages through without any change or delay.

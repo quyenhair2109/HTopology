@@ -16,7 +16,7 @@
 //
 
 
-package inet.applications.tcpapp;
+package inet.src.applications.tcpapp;
 
 //
 // This module hosts TCP-based server applications. It dynamically creates

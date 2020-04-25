@@ -17,7 +17,7 @@
 
 
 
-package inet.base;
+package inet.src.base;
 
 //
 // Joins multiple input streams into a single output stream.

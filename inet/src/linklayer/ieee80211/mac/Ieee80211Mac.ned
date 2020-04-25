@@ -16,7 +16,7 @@
 //
 
 
-package inet.linklayer.ieee80211.mac;
+package inet.src.linklayer.ieee80211.mac;
 
 //
 // Implementation of the 802.11b MAC protocol. This module is intended

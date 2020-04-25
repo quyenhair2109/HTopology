@@ -16,7 +16,7 @@
 //
 
 
-package inet.applications.pingapp;
+package inet.src.applications.pingapp;
 
 //
 // Generates ping requests and calculates the packet loss and round trip

@@ -15,7 +15,7 @@
 // along with this program; if not, see <http://www.gnu.org/licenses/>.
 //
 
-package inet.applications.sctpapp;
+package inet.src.applications.sctpapp;
 
 simple SCTPPeer like SCTPApp
 {

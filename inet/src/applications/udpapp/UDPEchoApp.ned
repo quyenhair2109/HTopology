@@ -16,7 +16,7 @@
 //
 
 
-package inet.applications.udpapp;
+package inet.src.applications.udpapp;
 
 //
 // Similar to UDPBasicApp, but it sends back the packet after reception.

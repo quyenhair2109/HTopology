@@ -16,7 +16,7 @@
 //
 
 
-package inet.applications.udpapp;
+package inet.src.applications.udpapp;
 
 //
 // Video stream server. To be used with UDPVideoStreamCli.

@@ -16,11 +16,11 @@
 //
 
 
-package inet.linklayer.ieee80211;
+package inet.src.linklayer.ieee80211;
 
-import inet.linklayer.ieee80211.mac.Ieee80211Mac;
-import inet.linklayer.ieee80211.mgmt.Ieee80211MgmtSTASimplified;
-import inet.linklayer.radio.Ieee80211Radio;
+import inet.src.linklayer.ieee80211.mac.Ieee80211Mac;
+import inet.src.linklayer.ieee80211.mgmt.Ieee80211MgmtSTASimplified;
+import inet.src.linklayer.radio.Ieee80211Radio;
 
 
 //

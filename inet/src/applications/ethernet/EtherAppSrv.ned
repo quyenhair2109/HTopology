@@ -16,7 +16,7 @@
 //
 
 
-package inet.applications.ethernet;
+package inet.src.applications.ethernet;
 
 //
 // Server side of the EtherCli model -- generates EtherAppResp packets

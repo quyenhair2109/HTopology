@@ -21,7 +21,7 @@
 // to be able to be used in StandardHost etc.
 //
 
-package inet.applications.sctpapp;
+package inet.src.applications.sctpapp;
 
 moduleinterface SCTPApp
 {

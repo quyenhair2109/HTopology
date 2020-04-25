@@ -17,7 +17,7 @@
 
 
 
-package inet.base;
+package inet.src.base;
 
 //
 // Blackboard for sharing information among modules in a host or router.

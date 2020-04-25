@@ -17,7 +17,7 @@
 //
 //
 
-package inet.applications.sctpapp;
+package inet.src.applications.sctpapp;
 
 simple SCTPServer like SCTPApp
 {
