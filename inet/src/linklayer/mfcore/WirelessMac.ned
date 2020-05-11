@@ -22,7 +22,7 @@
 //*              subclass to create your own MAC layer
 //***************************************************************************
 
-package inet.linklayer.mfcore;
+package inet.src.linklayer.mfcore;
 
 //
 // This is not an actual MAC implementation, just a prototype for wireless MAC's

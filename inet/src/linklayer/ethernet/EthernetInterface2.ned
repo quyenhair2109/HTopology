@@ -17,9 +17,9 @@
 
 
 
-package inet.linklayer.ethernet;
+package inet.src.linklayer.ethernet;
 
-import inet.linklayer.INetworkInterface;
+import inet.src.linklayer.INetworkInterface;
 import inet.networklayer.queue.OutputQueue;
 
 

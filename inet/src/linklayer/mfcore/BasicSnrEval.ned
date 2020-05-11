@@ -18,7 +18,7 @@
 // ***************************************************************************/
 
 
-package inet.linklayer.mfcore;
+package inet.src.linklayer.mfcore;
 
 //
 // The basic class for all snrEval modules

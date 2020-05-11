@@ -18,7 +18,7 @@
 // **************************************************************************/
 
 
-package inet.linklayer.mf80211.phyLayer.snrEval;
+package inet.src.linklayer.mf80211.phyLayer.snrEval;
 
 //
 // Gilbert-Elliot signal-noise evaluator

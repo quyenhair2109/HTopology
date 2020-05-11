@@ -17,7 +17,7 @@
 
 
 
-package inet.linklayer.ppp;
+package inet.src.linklayer.ppp;
 
 //
 // Drops generator module.

@@ -20,8 +20,8 @@
 
 package inet.examples.ethernet.lans;
 
-import inet.linklayer.ethernet.EtherBus;
-import inet.linklayer.ethernet.EtherHub;
+import inet.src.linklayer.ethernet.EtherBus;
+import inet.src.linklayer.ethernet.EtherHub;
 import inet.nodes.ethernet.EtherHost;
 import inet.nodes.ethernet.EtherHost2;
 import inet.nodes.ethernet.EtherSwitch;

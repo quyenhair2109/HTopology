@@ -1,4 +1,4 @@
-file 36397 1397672373                                           
+file 36397 1587456630                                           
 version 2
 run HStreamingChurn-0-20140416-23:12:54-4960
 attr configname HStreamingChurn
@@ -16,11 +16,11 @@ attr resultdir results
 attr runnumber 0
 attr seedset 0
 
-vector 1  SimpleUnderlayNetwork.globalObserver.globalStatistics  "ParetoChurn: Time between deletes"  ETV
-vector 2  SimpleUnderlayNetwork.globalObserver.globalStatistics  "GlobalNodeList: Number of nodes"  ETV
-vector 3  SimpleUnderlayNetwork.globalObserver.globalStatistics  "ParetoChurn: Session Time"  ETV
-vector 4  SimpleUnderlayNetwork.globalObserver.globalStatistics  "ParetoChurn: Time between creates"  ETV
+vector 1 SimpleUnderlayNetwork.globalObserver.globalStatistics "ParetoChurn: Time between deletes" ETV
 1	870 10207 689181 29251178 418.77285971 7574.820022158 262 0.134250483 134.316264155 7187.118884645 387835.19360257
+vector 2 SimpleUnderlayNetwork.globalObserver.globalStatistics "GlobalNodeList: Number of nodes" ETV
 2	11077 2938 788269 29154219 450 7550 143 386 420 57909 23462669
+vector 3 SimpleUnderlayNetwork.globalObserver.globalStatistics "ParetoChurn: Session Time" ETV
 3	14015 11642 862780 29296972 473.612076911 7586.388431795 275 0.88896751272839 508907.94481437 4596349.6621395 854559621401.28
+vector 4 SimpleUnderlayNetwork.globalObserver.globalStatistics "ParetoChurn: Time between creates" ETV
 4	25657 10740 862780 29296972 473.612076911 7586.388431795 275 0.000256152 180.325277631 7187.921270609 371828.67193605

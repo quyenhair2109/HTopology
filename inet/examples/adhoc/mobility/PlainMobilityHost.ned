@@ -21,7 +21,7 @@
 
 package inet.examples.adhoc.mobility;
 
-import inet.base.NotificationBoard;
+import inet.src.base.NotificationBoard;
 import inet.mobility.BasicMobility;
 
 

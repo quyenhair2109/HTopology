@@ -1,4 +1,4 @@
-file 3392 1397462738                                            
+file 3392 1587456630                                            
 version 2
 run HStreamingChurn-0-20140414-13:29:04-8428
 attr configname HStreamingChurn
@@ -15,5 +15,6 @@ attr replication #0
 attr resultdir results
 attr runnumber 0
 attr seedset 0
-vector 1  SimpleUnderlayNetwork.globalObserver.globalStatistics  "GlobalNodeList: Number of nodes"  ETV
+
+vector 1 SimpleUnderlayNetwork.globalObserver.globalStatistics "GlobalNodeList: Number of nodes" ETV
 1	557 2835 38463 5612917 100 7250 144 101 101 14544 1468944

@@ -18,11 +18,11 @@
 // **************************************************************************/
 
 
-package inet.linklayer.mf80211;
+package inet.src.linklayer.mf80211;
 
-import inet.linklayer.mf80211.macLayer.Mac80211;
-import inet.linklayer.mf80211.phyLayer.decider.Decider80211;
-import inet.linklayer.mf80211.phyLayer.snrEval.SnrEval80211;
+import inet.src.linklayer.mf80211.macLayer.Mac80211;
+import inet.src.linklayer.mf80211.phyLayer.decider.Decider80211;
+import inet.src.linklayer.mf80211.phyLayer.snrEval.SnrEval80211;
 
 
 //

@@ -18,7 +18,7 @@
 // **************************************************************************/
 
 
-package inet.linklayer.mf80211.phyLayer.decider;
+package inet.src.linklayer.mf80211.phyLayer.decider;
 
 //
 // Decider module to be used with SnrEval

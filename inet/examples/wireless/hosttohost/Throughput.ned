@@ -19,12 +19,12 @@
 
 package inet.examples.wireless.hosttohost;
 
-import inet.applications.ethernet.EtherAppCli;
-import inet.base.NotificationBoard;
-import inet.base.Sink;
+import inet.src.applications.ethernet.EtherAppCli;
+import inet.src.base.NotificationBoard;
+import inet.src.base.Sink;
 import inet.mobility.CircleMobility;
 import inet.mobility.NullMobility;
-import inet.linklayer.ieee80211.Ieee80211NicSTASimplified;
+import inet.src.linklayer.ieee80211.Ieee80211NicSTASimplified;
 import inet.nodes.wireless.WirelessAPSimplified;
 import inet.world.ChannelControl;
 

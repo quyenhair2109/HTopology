@@ -20,10 +20,10 @@
 
 package inet.examples.wireless.throughput;
 
-import inet.base.NotificationBoard;
-import inet.base.Sink;
+import inet.src.base.NotificationBoard;
+import inet.src.base.Sink;
 import inet.mobility.NullMobility;
-import inet.linklayer.ieee80211.Ieee80211NicAPSimplified;
+import inet.src.linklayer.ieee80211.Ieee80211NicAPSimplified;
 
 
 //

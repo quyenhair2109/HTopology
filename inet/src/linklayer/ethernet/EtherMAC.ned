@@ -16,7 +16,7 @@
 //
 
 
-package inet.linklayer.ethernet;
+package inet.src.linklayer.ethernet;
 
 //
 // Ethernet MAC layer. MAC performs transmission and reception of frames.

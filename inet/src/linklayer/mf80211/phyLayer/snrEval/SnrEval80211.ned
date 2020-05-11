@@ -18,7 +18,7 @@
 // **************************************************************************/
 
 
-package inet.linklayer.mf80211.phyLayer.snrEval;
+package inet.src.linklayer.mf80211.phyLayer.snrEval;
 
 //
 // This component has been taken over from Mobility Framework 1.0a5.

@@ -315,4 +315,4 @@
 // gigabyte sizes.
 //
 
-package inet.linklayer.ethernet;
+package inet.src.linklayer.ethernet;

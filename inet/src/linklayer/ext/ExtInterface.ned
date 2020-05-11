@@ -15,7 +15,7 @@
 // along with this program; if not, see <http://www.gnu.org/licenses/>.
 //
 
-package inet.linklayer.ext;
+package inet.src.linklayer.ext;
 
 simple ExtInterface
 {
